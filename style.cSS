@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+	background-image: url("bg oz.jpg");
+	background-repeat: no-repeat;
+	background-size: 5010px
+}
+
+p {
+	text-align: center;
+	color: black;
+}
+
+h3 {
+	border-style: groove;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: black; 
+    border: 1px solid red;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    background-color: red; 
+}
+
+tr, td {
+    background-color: darkred; 
+    border: 1px solid darkred;
+}
+
+th {
+    background-color:darkred; 
+}
+
+table {
+    opacity: 1.3;  
+}
